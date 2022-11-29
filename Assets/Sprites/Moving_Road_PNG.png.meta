@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 3603f42d28be6f5489414e6242ff91f1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moving_Road_PNG_BG
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8800
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4ae77cdaf84164b9c2da0375103384
+      internalID: 1630319677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_1
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 8800
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ed19eb148e9ed42b309c38ffab6bf9
+      internalID: 347069469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_2
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 8800
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df313f084ce20742ae3592424f9ab8c
+      internalID: -122175211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_3
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 8800
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afda426fb413c24499441d20eacb8d74
+      internalID: -882505182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_4
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 8800
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a145d94a9a01c1a4e97f23c6dc1fdd3b
+      internalID: -177465760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6600
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a3d77dbc8bce04cb458d5dcb49f7d9
+      internalID: 2117896077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_6
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 6600
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048f7290b66848e4ba290c5ec30f7334
+      internalID: 1500678920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_7
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 6600
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232b0f8ff9589204090aef51fe52d0d0
+      internalID: 1385776738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_8
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 6600
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f526a2a661668e6469137449ab6e9322
+      internalID: 1421066129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_9
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 6600
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef33d91ef05192c40a23e6c972969a75
+      internalID: -2064979242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4400
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aad5b71b387b94eaa7396e46c48c1f
+      internalID: -59134203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_11
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4400
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792760f169c609344b88ec971678e813
+      internalID: -91252184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_12
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 4400
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fabe1550cd9deb46aa17ad5e47115e4
+      internalID: -2053520888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_13
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 4400
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b11d026fbdb414793fec494991b03f
+      internalID: 1436454139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_14
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 4400
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89b9dcb3e063c443bb15a9ec1f3b32a
+      internalID: -155629023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2200
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27b623ffcb34b2489671ec939b6355e
+      internalID: -2023314867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_16
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2200
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f701703ae38424b88e8ea48d6dcd70
+      internalID: -748486747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_17
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 2200
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7a08cfd5541264d80b6e3b7939e8f2
+      internalID: 387657603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_18
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 2200
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1e7b5d17e38544d94d6755f9c1796c
+      internalID: -1384428574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_19
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 2200
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c6cf11702daa24e897c9f0ca0e2eba
+      internalID: 33780953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3061eac0a15a6b544a88023fdab275f6
+      internalID: 1518511796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_21
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe01f067bfd99f41abc21f168691a61
+      internalID: -1654447742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_22
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 0
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928ad1e946cd7304189dd2b665588064
+      internalID: -451706022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_23
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 0
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6358c1cc08638ea4ab2ccd2fabea90f9
+      internalID: -114833578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving_Road_PNG_24
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 0
+        width: 2200
+        height: 2200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacc7700a22310a4781e811fb419c09b
+      internalID: -897287932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Moving_Road_PNG_5: 2117896077
+      Moving_Road_PNG_10: -59134203
+      Moving_Road_PNG_3: -882505182
+      Moving_Road_PNG_7: 1385776738
+      Moving_Road_PNG_19: 33780953
+      Moving_Road_PNG_20: 1518511796
+      Moving_Road_PNG_16: -748486747
+      Moving_Road_PNG_6: 1500678920
+      Moving_Road_PNG_4: -177465760
+      Moving_Road_PNG_14: -155629023
+      Moving_Road_PNG_18: -1384428574
+      Moving_Road_PNG_15: -2023314867
+      Moving_Road_PNG_11: -91252184
+      Moving_Road_PNG_17: 387657603
+      Moving_Road_PNG_22: -451706022
+      Moving_Road_PNG_2: -122175211
+      Moving_Road_PNG_9: -2064979242
+      Moving_Road_PNG_21: -1654447742
+      Moving_Road_PNG_24: -897287932
+      Moving_Road_PNG_8: 1421066129
+      Moving_Road_PNG_23: -114833578
+      Moving_Road_PNG_12: -2053520888
+      Moving_Road_PNG_1: 347069469
+      Moving_Road_PNG_13: 1436454139
+      Moving_Road_PNG_BG: 1630319677
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
