@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: Assets/Scenes/(2)PassenegerCar1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/(3)PassengerCar2.unity
+    guid: 5feb7e487285eea4faa5a1a4ab51d279
+  - enabled: 1
     path: Assets/Scenes/(4)EngineCar.unity
     guid: 0ebd90fe2f6a11b4da9ebe0df88553c7
+  - enabled: 1
+    path: Assets/Scenes/(10)GameEnd.unity
+    guid: 926fb5a8f3a2ce245832c7b7524d52e6
   m_configObjects: {}
